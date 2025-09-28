@@ -1,1 +1,5 @@
 # Find-my-spot
+
+Problem Statement :- “Urban cities like Pune don’t have a parking shortage — they have a parking visibility problem. Empty spaces exist, but there’s no streamlined platform that connects owners with seekers in real time. 
+
+Proposed solution :- Our project aims to solve lack of real-time connection between empty private spaces and those seeking. We solve this inefficiency by creating a trusted system that makes these hidden parking spots visible and accessible. Through the system, apartment owner in city can list their space, set its availability in real-time, and define their rental price. Drivers can then use a map-based interface to locate, pre-book, seamlessly pay for a guaranteed parking spot near their destination. By unlocking this vast, hidden inventory of parking, our platform will not only provide a new source of income for residents but also significantly reduce the traffic congestion and stress caused by the search for parking. This creates a more efficient and resourceful parking ecosystem for the entire city.
